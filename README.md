@@ -1,5 +1,6 @@
-# ASSURE-IC
-AI-Powered KYC & Loan Application Platform
+
+# PrismAI
+Predictive Risk &amp; Identity Screening Module 
 
 ## Overview
 A production-grade, enterprise-level UI for KYC and loan origination with document-first user experience, progressive form unlocking, and clear progress indicators.
